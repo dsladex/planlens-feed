@@ -1,2 +1,3 @@
-# planlens-feed
-PlanLens Encrypted Data Distribution Endpoint
+# PlanLens Distribution Endpoint
+
+Encrypted data payload for the PlanLens mobile application.
